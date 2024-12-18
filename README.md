@@ -1,4 +1,4 @@
-# PROJETO ACADEMIA
+# COEL ACADEMIA
 
 Este é um projeto acadêmico desenvolvido durante minha passagem pela UEPB, com o objetivo de criar um sistema simples para gerenciar atividades de uma academia. 
 Em específico, a academia da própria Universidade. 
